@@ -7,15 +7,15 @@ Use quando você tem opções na mesa e precisa decidir com critério.
 Copie pelo botão no canto do bloco, troque o que está entre colchetes e cole na IA que você usa.
 
 ```text
-Quero comparar [opção A], [opção B] e [outras opções].
+Quero comparar ElevenLabs, Google AI Studio / Gemini TTS e Fish Audio.
 
-Meu objetivo é: [decisão que preciso tomar].
+Meu objetivo é: avaliar melhor entrega de benefícios.
 
 Use estes critérios:
-1. [critério 1]
-2. [critério 2]
-3. [critério 3]
-4. [critério 4]
+1. Naturalidade das falas
+2. Qualidade da pronúncia
+3. Consumo real de créditos por minuto de áudio
+4. Custo
 
 Para cada opção:
 - apresente evidências relevantes;
