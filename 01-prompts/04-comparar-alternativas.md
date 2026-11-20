@@ -7,7 +7,7 @@ Use quando você tem opções na mesa e precisa decidir com critério.
 Copie pelo botão no canto do bloco, troque o que está entre colchetes e cole na IA que você usa.
 
 ```text
-Quero comparar ElevenLabs, Google AI Studio / Gemini TTS e Fish Audio.
+Quero comparar ElevenLabs, Google AI Studio e Fish Audio.
 
 Meu objetivo é: avaliar melhor entrega de benefícios.
 
@@ -15,7 +15,7 @@ Use estes critérios:
 1. Naturalidade das falas
 2. Qualidade da pronúncia
 3. Consumo real de créditos por minuto de áudio
-4. Custo
+4. Custo do plano de entrada
 
 Para cada opção:
 - apresente evidências relevantes;
