@@ -10,10 +10,10 @@ Copie pelo botão no canto do bloco e troque cada pergunta entre colchetes pela 
 
 ```text
 PERGUNTA
-[O que quero descobrir?]
+Qual o melhor sintetizador de voz atualmente no mercado e custo?
 
 PESQUISA
-[Que informações externas ou atuais preciso consultar?]
+Consulte informações em sites oficiais dos sintetizadores de voz e sites que falam sobre tecnologia.
 
 FONTES E EVIDÊNCIAS
 [Quais fontes sustentam a resposta? Há divergências?]
