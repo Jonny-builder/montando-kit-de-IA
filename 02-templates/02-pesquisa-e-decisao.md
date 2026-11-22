@@ -25,8 +25,8 @@ Quais os principais pontos da ferramenta que serão decisivos para a escola?
 - Custo-benefício
 
 COMPARAÇÃO
-Qual das opções de sintetizadores de voz apresenta melhor avaliação e preço do serviço oferecido?  
+Qual das opções de sintetizadores de voz apresenta melhor resultado e preço do serviço oferecido?  
 
 DECISÃO
-[O que eu, como responsável pela decisão, concluo?]
+Após avaliar os resultados comparativos, a melhor opção que atende melhor as minhas necessidades, é o sintetizador Fish Audio.
 ```
