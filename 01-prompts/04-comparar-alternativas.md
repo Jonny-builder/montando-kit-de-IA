@@ -18,12 +18,12 @@ Use estes critérios:
 4. Custo do plano de entrada
 
 Para cada opção:
-- apresente evidências relevantes;
-- destaque benefícios;
-- destaque riscos ou limitações;
-- sinalize quando faltar informação.
+- apresente os links oficiais e de sites especializados em tecnologia que avaliam cada ferramenta, para comprovar a afirmação;
+- destaque os principais benefícios e características de cada ferramenta;
+- destaque as limitações e dificuldades de utilização das ferramentas;
+- sinalize quando faltar informação e indique outra opção, caso as informações sejam imprecisas.
 
-Ao final, faça uma comparação clara e indique qual opção parece mais adequada com base nos critérios definidos.
+Ao final, faça uma comparação clara, em forma de uma tabela comparativa e indique qual opção parece mais adequada com base nos critérios definidos.
 
-Não tome a decisão por mim. Mostre o raciocínio e os dados para que eu possa decidir.
+Não tome a decisão por mim. Mostre o raciocínio e os dados para que eu possa avaliar primeiramente e decidir.
 ```
