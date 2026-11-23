@@ -7,9 +7,9 @@ Use quando você tem opções na mesa e precisa decidir com critério.
 Copie pelo botão no canto do bloco, troque o que está entre colchetes e cole na IA que você usa.
 
 ```text
-Quero comparar ElevenLabs, Google AI Studio e Fish Audio.
+Quero comparar ElevenLabs, OpenAI TTS e Fish Audio.
 
-Meu objetivo é: avaliar melhor entrega de benefícios.
+Meu objetivo é: avaliar melhor entrega de benefícios e o custo do serviço.
 
 Use estes critérios:
 1. Naturalidade das falas
