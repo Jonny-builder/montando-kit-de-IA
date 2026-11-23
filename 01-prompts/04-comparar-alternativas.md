@@ -25,5 +25,5 @@ Para cada opção:
 
 Ao final, faça uma comparação clara, em forma de uma tabela comparativa e indique qual opção parece mais adequada com base nos critérios definidos.
 
-Não tome a decisão por mim. Mostre o raciocínio e os dados para que eu possa avaliar primeiramente e decidir.
+Não tome a decisão por mim. Mostre o raciocínio e os dados de maneira simples e clara, para que eu possa avaliar primeiramente e decidir.
 ```
