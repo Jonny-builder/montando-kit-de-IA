@@ -61,7 +61,6 @@ _Qual tarefa da sua semana você escolheu e por que ela vale a pena?_
 _Conte quais modelos do kit você adaptou, o que ficou fixo e o que muda a cada uso._
 
 ```text
-
 Quero comparar ElevenLabs, Google AI Studio e Fish Audio.
 
 Meu objetivo é: avaliar melhor entrega de benefícios.
