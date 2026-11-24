@@ -54,7 +54,7 @@ Nada de e-mail, nome de cliente, dado da empresa, senha ou informação pessoal 
 
 ### Minha Tarefa Real
 
-_Qual tarefa da sua semana você escolheu e por que ela vale a pena?_
+_Escolhi a tarefa em que esclareço as orientações para a tomada de decisões nos prompts, visando fazer uma pesquisa comparativa entre 3 alternativas de sintetizadores de voz e áudio._
 
 ### Meus Atalhos
 
