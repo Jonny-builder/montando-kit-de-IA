@@ -10,13 +10,13 @@ Copie pelo botão no canto do bloco e troque cada pergunta entre colchetes pela 
 
 ```text
 PERGUNTA
-Qual o melhor sintetizador de voz atualmente no mercado e o custo mais vantajoso?
+Qual o melhor sintetizador de voz atualmente no mercado e com o custo mais vantajoso?
 
 PESQUISA
 Consulte informações em sites oficiais dos sintetizadores de voz e em sites de tecnologia que falam sobre as ferramentas.
 
 FONTES E EVIDÊNCIAS
-Quais o principais pontos positivos e negativos de cada sintetizador de voz e quais são as referências que comprovam a alegação?
+Quais o principais pontos positivos e negativos de cada sintetizador de voz e traga as referências que comprovam a alegação?
 
 CRITÉRIOS
 Quais os principais pontos da ferramenta que serão decisivos para a escola?
