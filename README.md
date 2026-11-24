@@ -119,7 +119,7 @@ _Cole o print do plano e conte o que você ajustou antes de a IA começar._
 _<img width="766" height="467" alt="Resultado_1" src="https://github.com/user-attachments/assets/ece90375-7c43-45ab-92b2-311610f05d18" />
 <img width="766" height="509" alt="Resultado_" src="https://github.com/user-attachments/assets/d7923fe2-169b-4f02-aa90-be193b46694a" />
 
-Com base nas características dos produtos a serem pesquisados, realizei as devidas adaptações dos trechos do modelo de prompt e certificado as alterações feitas, foi executado o comando._
+Com base nas características dos produtos a serem pesquisados, realizei as devidas adaptações dos trechos do modelo de prompt e certificado as alterações feitas, foi executado o comando.
 
 ### Como Foi para Você
 
