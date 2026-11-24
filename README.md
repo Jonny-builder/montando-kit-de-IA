@@ -61,6 +61,29 @@ _Qual tarefa da sua semana você escolheu e por que ela vale a pena?_
 _Conte quais modelos do kit você adaptou, o que ficou fixo e o que muda a cada uso._
 
 ```text
+
+Quero comparar ElevenLabs, Google AI Studio e Fish Audio.
+
+Meu objetivo é: avaliar melhor entrega de benefícios.
+
+Use estes critérios:
+1. Naturalidade das falas
+2. Qualidade da pronúncia
+3. Consumo real de créditos por minuto de áudio
+4. Custo do plano de entrada
+
+Para cada opção:
+- apresente evidências relevantes;
+- destaque benefícios;
+- destaque riscos ou limitações;
+- sinalize quando faltar informação.
+
+Ao final, faça uma comparação clara e indique qual opção parece mais adequada com base nos critérios definidos.
+
+Não tome a decisão por mim. Mostre o raciocínio e os dados para que eu possa decidir.
+```
+
+```text
 Quero comparar ElevenLabs, OpenAI TTS e Fish Audio.
 
 Meu objetivo é: avaliar melhor entrega de benefícios e o custo do serviço.
@@ -80,10 +103,6 @@ Para cada opção:
 Ao final, faça uma comparação clara, em forma de uma tabela comparativa e indique qual opção parece mais adequada com base nos critérios definidos.
 
 Não tome a decisão por mim. Mostre o raciocínio e os dados de maneira simples e clara, para que eu possa avaliar primeiramente e decidir.
-```
-
-```text
-Cole aqui o seu segundo atalho, já adaptado.
 ```
 
 ### Minha Delegação
