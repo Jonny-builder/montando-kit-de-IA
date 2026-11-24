@@ -58,7 +58,7 @@ _Escolhi a tarefa em que esclareço as orientações para a tomada de decisões 
 
 ### Meus Atalhos
 
-_Conte quais modelos do kit você adaptou, o que ficou fixo e o que muda a cada uso._
+_O modelo escolhido para adaptação foi a Pesquisa e Decisão com IA. No modelo foram alterados os critérios com base nos produtos pesquisados, as orientações para a realização da pesquisa e a forma que o resultado será apresentado. Esses pontos alterados no modelo, são adaptados conforme o contexto de cada pesquisa que for executada._
 
 ```text
 Quero comparar ElevenLabs, Google AI Studio e Fish Audio.
