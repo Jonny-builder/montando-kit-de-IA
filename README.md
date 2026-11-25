@@ -54,13 +54,13 @@ Nada de e-mail, nome de cliente, dado da empresa, senha ou informação pessoal 
 
 ### Minha Tarefa Real
 
-_Escolhi a tarefa em que esclareço as orientações para a tomada de decisões nos prompts, visando fazer uma pesquisa comparativa entre 3 alternativas de sintetizadores de voz e áudio. A tarefa com a IA permite uma pesquisa mais assertiva, objetiva e rápida, possibilitando avaliar os principais pontos que são decisivos para a escolha._
+Essa tarefa vale a pena porque a gravação ou síntese de voz consome muito tempo e dinheiro na minha rotina; padronizar a escolha por IA economiza horas de testes manuais e evita contratação de planos caros.
 
 ### Meus Atalhos
 
-_O modelo escolhido para adaptação foi a Pesquisa e Decisão com IA. No modelo foram alterados os critérios com base nos produtos pesquisados, as orientações para a realização da pesquisa e a forma que o resultado será apresentado. Esses pontos alterados no modelo, são adaptados conforme o contexto de cada pesquisa que for executada._
+O modelo escolhido para adaptação foi a Pesquisa e Decisão com IA. No modelo foram alterados os critérios com base nos produtos pesquisados, as orientações para a realização da pesquisa e a forma que o resultado será apresentado. Esses pontos alterados no modelo, são adaptados conforme o contexto de cada pesquisa que for executada.
 
-```text
+```Protótipo Inicial
 Quero comparar ElevenLabs, Google AI Studio e Fish Audio.
 
 Meu objetivo é: avaliar melhor entrega de benefícios.
@@ -82,7 +82,7 @@ Ao final, faça uma comparação clara e indique qual opção parece mais adequa
 Não tome a decisão por mim. Mostre o raciocínio e os dados para que eu possa decidir.
 ```
 
-```text
+```Versão Refinada
 Quero comparar ElevenLabs, OpenAI TTS e Fish Audio.
 
 Meu objetivo é: avaliar melhor entrega de benefícios e o custo do serviço.
@@ -127,7 +127,7 @@ Antes de começar, mostre como pretende realizar essa tarefa.
 
 ### O Plano da IA
 
-_A tarefa de comparar as ferramentas de geração de voz foi conduzida de forma estruturada antes da coleta detalhada de dados:
+A tarefa de comparar as ferramentas de geração de voz foi conduzida de forma estruturada antes da coleta detalhada de dados:
 
 Mapeamento dos requisitos e critérios: Foram identificados os quatro critérios obrigatórios (naturalidade das falas, qualidade da pronúncia, consumo real de créditos por minuto e custo do plano de entrada), além das regras de transparência (apontar lacunas de informação, indicar alternativas quando necessário e deixar a decisão final com você).
 
@@ -135,15 +135,13 @@ Definição das frentes de apuração: Cada plataforma foi tratada como um bloco
 
 Padronização da leitura comparativa: Os dados foram organizados para permitir o cruzamento direto entre entrega de benefícios e custo efetivo por minuto, evitando decisões baseadas apenas no preço nominal do plano inicial.
 
-_
-
 ### O Resultado
 
-_<img width="766" height="467" alt="Resultado_1" src="https://github.com/user-attachments/assets/ece90375-7c43-45ab-92b2-311610f05d18" />
+<img width="766" height="467" alt="Resultado_1" src="https://github.com/user-attachments/assets/ece90375-7c43-45ab-92b2-311610f05d18" />
 <img width="766" height="509" alt="Resultado_" src="https://github.com/user-attachments/assets/d7923fe2-169b-4f02-aa90-be193b46694a" />
 
 Com base no resultado apresentado, realizei a leitura das informações e cliquei nas referências em que se baseiam as afirmações, para certificar que o conteúdo e os valores apresentados são verdadeiros. Concluído a análise do material como confiável, decidi que o serviço que atende melhor minhas necessidades, é o Fish Audio.
 
 ### Como Foi para Você
 
-_Com o aprofundamento do ensino em IA as atividades passaram a ser menos trabalhosas e mais ágeis de serem concluídas._
+Com o aprofundamento do ensino em IA as atividades passaram a demandar menos tempo e ser menos trabalhosas e a sobrar mais tempo para me ocupar com outros projetos.
