@@ -54,7 +54,7 @@ Nada de e-mail, nome de cliente, dado da empresa, senha ou informação pessoal 
 
 ### Minha Tarefa Real
 
-Porquê vale a pena. Essa tarefa vale a pena porque a gravação ou síntese de voz consome muito tempo e dinheiro na minha rotina; padronizar a escolha por IA economiza horas de testes manuais e evita contratação de planos caros.
+Essa tarefa vale a pena porque a gravação ou síntese de voz consome muito tempo e dinheiro na minha rotina; padronizar a escolha por IA economiza horas de testes manuais e evita contratação de planos caros.
 
 ### Meus Atalhos
 
