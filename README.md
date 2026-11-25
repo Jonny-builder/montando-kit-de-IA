@@ -54,7 +54,7 @@ Nada de e-mail, nome de cliente, dado da empresa, senha ou informação pessoal 
 
 ### Minha Tarefa Real
 
-_Escolhi a tarefa em que esclareço as orientações para a tomada de decisões nos prompts, visando fazer uma pesquisa comparativa entre 3 alternativas de sintetizadores de voz e áudio._
+_Escolhi a tarefa em que esclareço as orientações para a tomada de decisões nos prompts, visando fazer uma pesquisa comparativa entre 3 alternativas de sintetizadores de voz e áudio. A tarefa com a IA permite uma pesquisa mais assertiva, objetiva e rápida, possibilitando avaliar os principais pontos que são decisivos para a escolha._
 
 ### Meus Atalhos
 
@@ -107,19 +107,42 @@ Não tome a decisão por mim. Mostre o raciocínio e os dados de maneira simples
 ### Minha Delegação
 
 ```text
-Cole aqui o pedido que você entregou à IA, com objetivo, contexto, recursos, limites e sucesso.
+OBJETIVO
+Realizar um levantamento aprofundado e comparativo entre as ferramentas de síntese de voz: ElevenLabs, OpenAI TTS e Fish Audio, estruturando um relatório para embasar a escolha da melhor opção de uso.
+
+CONTEXTO
+Preciso produzir áudios com narração realista para projetos de conteúdo, buscando equilibrar qualidade de pronúncia em português e o menor custo por minuto gerado.
+
+RECURSOS
+Você pode consultar a documentação oficial das 3 ferramentas, fóruns de desenvolvedores e páginas públicas de preços atualizadas.
+
+LIMITES
+Não invente preços ou funcionalidades caso não encontre dados oficiais. Não tome a decisão final por mim nem gere opiniões sem embasamento em dados.
+
+SUCESSO
+Uma tabela comparativa com os 4 critérios definidos, os prós e contras de cada ferramenta e links oficiais ativos das páginas de planos.
+
+Antes de começar, mostre como pretende realizar essa tarefa.
 ```
 
 ### O Plano da IA
 
-_Cole o print do plano e conte o que você ajustou antes de a IA começar._
+_A tarefa de comparar as ferramentas de geração de voz foi conduzida de forma estruturada antes da coleta detalhada de dados:
+
+Mapeamento dos requisitos e critérios: Foram identificados os quatro critérios obrigatórios (naturalidade das falas, qualidade da pronúncia, consumo real de créditos por minuto e custo do plano de entrada), além das regras de transparência (apontar lacunas de informação, indicar alternativas quando necessário e deixar a decisão final com você).
+
+Definição das frentes de apuração: Cada plataforma foi tratada como um bloco independente para levantar documentação oficial, modelos de cobrança (créditos mensais vs. consumo por token/caractere), limites operacionais e avaliações técnicas.
+
+Padronização da leitura comparativa: Os dados foram organizados para permitir o cruzamento direto entre entrega de benefícios e custo efetivo por minuto, evitando decisões baseadas apenas no preço nominal do plano inicial.
+
+_
 
 ### O Resultado
 
 _<img width="766" height="467" alt="Resultado_1" src="https://github.com/user-attachments/assets/ece90375-7c43-45ab-92b2-311610f05d18" />
 <img width="766" height="509" alt="Resultado_" src="https://github.com/user-attachments/assets/d7923fe2-169b-4f02-aa90-be193b46694a" />
 
-Com base nas características dos produtos a serem pesquisados, realizei as devidas adaptações dos trechos do modelo de prompt e certificado as alterações feitas, foi executado o comando.
+Com base no resultado apresentado, realizei a leitura das informações e cliquei nas referências em que se baseiam as afirmações, para certificar que o conteúdo e os valores apresentados são verdadeiros. Concluído a análise do material como confiável, decidi que o serviço que atende melhor minhas necessidades, é o Fish Audio.
 
 ### Como Foi para Você
 
