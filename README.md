@@ -60,7 +60,8 @@ Porquê vale a pena. Essa tarefa vale a pena porque a gravação ou síntese de 
 
 O modelo escolhido para adaptação foi a Pesquisa e Decisão com IA. No modelo foram alterados os critérios com base nos produtos pesquisados, as orientações para a realização da pesquisa e a forma que o resultado será apresentado. Esses pontos alterados no modelo, são adaptados conforme o contexto de cada pesquisa que for executada.
 
-```Protótipo Inicial
+```text
+Protótipo Inicial
 Quero comparar ElevenLabs, Google AI Studio e Fish Audio.
 
 Meu objetivo é: avaliar melhor entrega de benefícios.
@@ -82,7 +83,8 @@ Ao final, faça uma comparação clara e indique qual opção parece mais adequa
 Não tome a decisão por mim. Mostre o raciocínio e os dados para que eu possa decidir.
 ```
 
-```Versão Refinada
+```text
+Versão Refinada
 Quero comparar ElevenLabs, OpenAI TTS e Fish Audio.
 
 Meu objetivo é: avaliar melhor entrega de benefícios e o custo do serviço.
